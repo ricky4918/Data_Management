@@ -9,4 +9,4 @@ Data Management with Python
  
  
 **Module II: Data Set Handling**
-- ndexing and Slicing
+- Indexing and Slicing
