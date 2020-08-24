@@ -2,13 +2,11 @@
 
 Data Management with Python
 
-
 ### Features
-#Module I: Introduction to Python
- 
- #Data Type
- 
- 
-#Module II: Data Set Handling
 
-  #Indexing and Slicing
+**Module I: Introduction to Python**
+- Data Type
+ 
+ 
+**Module II: Data Set Handling**
+- ndexing and Slicing
