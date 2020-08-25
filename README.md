@@ -1,4 +1,4 @@
-![GitHub Logo](/images/logo.png)
+[![Logo](/logo.png)](https://www.fsociety.gr/increase-data-analytics-skills/)
 ### Data_Management
 
 Data Management with Python
