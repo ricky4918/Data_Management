@@ -1,5 +1,4 @@
-![KakaoTalk_Photo_2020-05-09-16-37-03](https://user-images.githubusercontent.com/22780537/91128296-ce417f00-e65c-11ea-9e62-ead863ec8c56.jpeg)
-
+![Data-Analyst](https://user-images.githubusercontent.com/22780537/91128409-034dd180-e65d-11ea-9823-cbf9898cd573.png)
 # Data_Management
 
 Data Management with Python
