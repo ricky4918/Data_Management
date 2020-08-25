@@ -9,6 +9,7 @@ Data Management with Python
 - File Handling
 - Object Oriented Programming
 - Date and Time
+- Conditional Statement
  
  
 **Module II: Data Set Handling**
