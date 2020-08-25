@@ -7,6 +7,7 @@ Data Management with Python
 **Module I: Introduction to Python**
 - Data Type
 - File Handling
+- Object Oriented Programming
  
  
 **Module II: Data Set Handling**
