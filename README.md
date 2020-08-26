@@ -15,3 +15,7 @@ Data Management with Python
  
 **Module II: Data Set Handling**
 - Indexing and Slicing
+- Data Cleaning 
+  - Missing Value Imputation
+  - Remove Duplicates
+  - Treatment of outlier
