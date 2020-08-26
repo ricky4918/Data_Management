@@ -19,3 +19,14 @@ Data Management with Python
   - Missing Value Imputation
   - Remove Duplicates
   - Treatment of outlier
+  
+**Modue III: Data Visualization**
+- histogram 
+- scatter plot
+- bar graph 
+- line plot 
+- boxplot 
+- kde(kernel density estimate) plot: 
+- pair plot 
+- relation plot(rel plot) 
+- heatmap 
