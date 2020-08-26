@@ -26,7 +26,7 @@ Data Management with Python
 - bar graph 
 - line plot 
 - boxplot 
-- kde(kernel density estimate) plot: 
+- kde plot 
 - pair plot 
-- relation plot(rel plot) 
+- relation plot
 - heatmap 
