@@ -32,7 +32,7 @@ Data Management with Python
 - Relation plot
 - Heatmap 
 
-**Module IV: Predictive Modelling with Python**
+**Module IV: Machine Learning**
 - KNN(K Nearest Neighbors) Algorithm
 - Cunfusion Matrix using KNN Algorithm
   - Precision
