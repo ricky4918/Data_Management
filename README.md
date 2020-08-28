@@ -22,15 +22,16 @@ Data Management with Python
 - Merging and sorting
   
 **Modue III: Data Visualization**
-- histogram 
-- scatter plot
-- bar graph 
-- line plot 
-- boxplot 
-- kde plot 
-- pair plot 
-- relation plot
-- heatmap 
+- Histogram 
+- Scatter plot
+- Bar graph 
+- Line plot 
+- Boxplot 
+- Kde plot 
+- Pair plot 
+- Relation plot
+- Heatmap 
+
 **Module IV: Predictive Modelling with Python**
 - KNN(K Nearest Neighbors) Algorithm
 - Cunfusion Matrix using KNN Algorithm
