@@ -19,6 +19,7 @@ Data Management with Python
   - Missing Value Imputation
   - Remove Duplicates
   - Treatment of outlier
+- Merging and sorting
   
 **Modue III: Data Visualization**
 - histogram 
@@ -30,3 +31,10 @@ Data Management with Python
 - pair plot 
 - relation plot
 - heatmap 
+**Module IV: Predictive Modelling with Python**
+- KNN(K Nearest Neighbors) Algorithm
+- Cunfusion Matrix using KNN Algorithm
+  - Precision
+  - Recall
+  - Accuracy
+  - F1-score
