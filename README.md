@@ -39,6 +39,7 @@ Data Management with Python
   - Recall
   - Accuracy
   - F1-score
+- Support Vector Machine(SVM)
 - Linear Regression
   - Single
   - multi
