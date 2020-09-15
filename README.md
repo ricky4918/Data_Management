@@ -39,3 +39,6 @@ Data Management with Python
   - Recall
   - Accuracy
   - F1-score
+- Linear Regression
+  - Single
+  - multi
