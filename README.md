@@ -43,3 +43,11 @@ Data Management with Python
 - Linear Regression
   - Single
   - multi
+- Random Forest And Decision Tree
+  - Data Preparation
+  - Establish Baseline
+  - Train Model
+  - Make Predictions on the Test Set
+  - Determine Performance Metrics
+  - Visualizing a Single Decision Tree
+  - Visualizations
